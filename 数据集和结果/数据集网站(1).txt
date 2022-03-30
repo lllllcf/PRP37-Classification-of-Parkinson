@@ -1,0 +1,7 @@
+https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification
+
+https://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait
+
+https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet
+
+https://www.ppmi-info.org/access-data-specimens/
